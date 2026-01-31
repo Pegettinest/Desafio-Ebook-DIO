@@ -4,7 +4,7 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Perplexity](https:\\perplexity.ai) 
+- [Perplexity](https://perplexity.ai) 
 - [NanoBanana - Gemini](https://gemini.google.com)
 - [Canva](https://canva.com)
 
