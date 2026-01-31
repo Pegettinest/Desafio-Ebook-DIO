@@ -16,7 +16,7 @@ Perplexity：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Gere um título que chame a atenção para um ebook sobre como dar os primeiros passos na programação.                                                       |
-| conteúdo | gere outro texto bem enxuto que aborde os principais pontos onde iniciantes na programação devem focar. o texto pode preencher no máximo 1 página |
+| conteúdo | Gere outro texto bem enxuto que aborde os principais pontos onde iniciantes na programação devem focar. o texto pode preencher no máximo 1 página |
 
 
 NanoBanana：
